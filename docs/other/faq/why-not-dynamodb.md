@@ -16,4 +16,4 @@ However, we expected those questions and requests to support different types of 
 
 So if you want to use DynamoDb, all you need is an adapter for it. This applies to any other database. 
 
-> If you're interested in writing an adapter. Have a look at this [github issue](https://github.com/webiny/webiny-js/issues/575) that provides already some guidelines. And for any other question, just give us a shout by opening a new topic on our repo.
+> If you're interested in writing an adapter. Have a look at this [github issue](https://github.com/webiny/webiny-js/issues/662) that provides already some guidelines. And for any other question, just give us a shout by opening a new topic on our repo.
